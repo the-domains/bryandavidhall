@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BryanDavidHall]]></title>
         <description><![CDATA[BryanDavidHall]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bryandavidhall/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 02:45:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 02:45:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bryandavidhall/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/006322d4-e20f-4cd1-a2b8-95cd99435019.jpg">]]></description>
+            <link>https://thegrid.ai/bryandavidhall/bf0947af-5c70-416a-93d1-4484df0780e0/index.html</link>
+            <guid isPermaLink="false">bf0947af-5c70-416a-93d1-4484df0780e0</guid>
+            <pubDate>Thu, 17 Mar 2016 02:45:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bd127e3-72ed-4812-849e-a0f41aa309fa.jpg">]]></description>
-            <link>undefined526dc6e1-d642-4376-be36-fbe0d16d7ee1/index.html</link>
+            <link>https://thegrid.ai/bryandavidhall/526dc6e1-d642-4376-be36-fbe0d16d7ee1/index.html</link>
             <guid isPermaLink="false">526dc6e1-d642-4376-be36-fbe0d16d7ee1</guid>
             <pubDate>Thu, 17 Mar 2016 02:45:18 GMT</pubDate>
         </item>
